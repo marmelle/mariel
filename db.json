@@ -1,0 +1,22 @@
+{
+  "surveys": [
+    {
+      "fname": "Mariel",
+      "location": "18 - 25",
+      "movies": [
+        "Boyfriend/Girlfriend"
+      ],
+      "gender": "F",
+      "suggestion": "Dear Santa, please grant my wish.",
+      "show": false,
+      "selectedfname": "",
+      "selectedlocation": "",
+      "selectedmovies": [],
+      "selectedgender": "",
+      "selectedsuggestion": "",
+      "seledtedId": "",
+      "selectedId": 2,
+      "id": 3
+    }
+  ]
+}

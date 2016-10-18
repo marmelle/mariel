@@ -1,0 +1,66 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  font-family: Arial;
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.newer{
+  font-size: 500%;
+  font-weight: bold;
+  color: red;
+  font-family: century gothic;
+  text-align: center;
+  
+}
+
+.wrap{
+  width:auto;
+  font-family: century gothic;
+}
+
+.wraps{
+  width:590px;
+  opacity: 0.8;
+  margin-left: 0%;
+  background: red;
+  border-radius: 15px;
+}
+.wraps2{
+  font-size:130%;
+  padding-top: 5px;
+  padding-bottom: 15px;
+  color: white;
+  width:590px;
+  margin-left:0px;
+  font-family: century gothic;
+  border-radius: 15px;
+}
+.tabs1{
+  background:red;
+  opacity: 0.8;
+  font-size:120%;
+  margin-top:20px;
+  padding-top: 5px;
+  color: white;
+  margin-left:180px;
+  font-family: century gothic;
+  border-radius: 15px;
+  border: 0cm;
+  width: 1000px;
+  border-collapse: collapse;
+  outline: 0;
+  
+}
+
+
+
